@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Author Oghenekparobo Onosemuode
+#Author Clinton Siloko
 """Defines a matrix divide function
 """
 
